@@ -15,12 +15,12 @@ I have a strong affinity for technical articles and have a genuine love for expl
 
 - [Introduction](#introduction)
 - [Educational Qualification](#qualification)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Projects](#Projects)
+- [Internships & Courses](#InternshipsnCourses)
+- [Programming Languages](#ProgrammingLanguages)
+- [Interests](#Interests)
 
-## Features
+## Qualification
 
 List the key features and functionalities of the project. Highlight what sets it apart and why users might find it useful.
 
