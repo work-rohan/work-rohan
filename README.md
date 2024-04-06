@@ -35,12 +35,10 @@ Hello!
 ## Internships & Courses
 
 - Internship at Aesthetix Innovations LLP
-    - Implemented a Project based on Blockchain.
-    - Created and deployed NFT in an Avalanche blockchain network.
-
-
+     - Implemented a Project based on Blockchain
+     - Created and deployed NFT in an Avalanche blockchain network.
 - Internship at Techmaghi LLP
-    - Learned full stack development using REACT.
+    - Learned full stack development using REACT
 
 
 ## Programming Languages
