@@ -1,53 +1,71 @@
 # ROHAN DJ
 
-## Introduction
+## Introduction 
 
-Hello,
+Hello!
 
-I am Rohan DJ. My current residence is at Cherthala, Alappuzha. I am pursuing my B.Tech in Computer Science and Engineering at the Toc H Institute of Science and Technology, Cochin.
-
-My journey in the world of technology has been marked by a deep passion for coding, gaming, and web development. My educational foundation was laid at the prestigious ST Joseph Public School Pattanakad, where I developed a strong academic base and a thirst for knowledge. Beyond academics, my interests extend to competitive gaming, where I constantly challenge myself to excel. 
-
-I have a strong affinity for technical articles and have a genuine love for exploring new horizons and delving deeper into uncharted territories of unknown facts. I fill my leisure times enjoying music.With a mix of academic pursuits and extracurricular interests, I am excited to explore new opportunities and collaborate with like-minded individuals. I believe that my combination of technical skills, creativity, and dedication will enable me to contribute effectively to any team. 
+- I am Rohan DJ.
+- Current residence : Cherthala, Alappuzha.
+- Pursuing  B.Tech in Computer Science and Engineering @ Toc H Institute of Science and Technology, Cochin.
+- Interested in coding, gaming, and web development.  
  
 
-## 
+## Section Navigation
 
 - [Introduction](#introduction)
-- [Educational Qualification](#qualification)
-- [Projects](#Projects)
-- [Internships & Courses](#InternshipsnCourses)
-- [Programming Languages](#ProgrammingLanguages)
-- [Interests](#Interests)
+- [Educational Qualification](#educational-qualification)
+- [Projects](#projects)
+- [Internships & Courses](#internships--courses)
+- [Programming Languages](#programming-languages)
+- [Interests](#interests)
+- [Contact](#contact-information)
 
-## Qualification
+## Educational Qualification 
 
-List the key features and functionalities of the project. Highlight what sets it apart and why users might find it useful.
+- ST. Joseph Public School, Pattanakad (ICSE)
+- B. Tech CSE @ Toc H Institute of Science and Technology
 
-## Installation
+## Projects
 
-Provide instructions on how to install the project. Include any dependencies that need to be installed and steps to set up the environment.
+- Xcrypt:
+     - PvP Card based Game on Blockchain
+- Med.Net:
+     - Pharmaceutical Supply Chain Ledger using Blockchain Technology
 
-## Usage
+## Internships & Courses
 
-Explain how users can use the project. Include examples, code snippets, or screenshots to demonstrate its functionality.
+- Internship at Aesthetix Innovations LLP
+    - Implemented a Project based on Blockchain.
+    - Created and deployed NFT in an Avalanche blockchain network.
 
-## Contributing
 
-Encourage others to contribute to the project and provide guidelines for how they can do so. This might include information on how to report bugs, suggest new features, or submit pull requests.
+- Internship at Techmaghi LLP
+    - Learned full stack development using REACT.
 
-## License
 
-Specify the license under which the project is distributed. Include any relevant terms and conditions.
+## Programming Languages
 
-## Get Started
+- C/C++
+- Java
+- Python
+- HTML/CSS
+- Javascript
+- PHP
 
-For a quick start, check out the following:
+## Interests
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
+- Coding
+- Gaming
+- Photography
 
+
+## Contact Information
+
+For inquiries or assistance, please feel free to reach out to me:
+
+- [LinkedIn](https://www.linkedin.com/in/rohan0410)
+- **Email:** : work.rohandj@gmail.com
+- **Phone** : +91 77361 16613
 
 
 <!---
