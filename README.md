@@ -63,7 +63,6 @@ For inquiries or assistance, please feel free to reach out to me:
 
 - [LinkedIn](https://www.linkedin.com/in/rohan0410)
 - **Email:** : work.rohandj@gmail.com
-- **Phone** : +91 77361 16613
 
 
 <!---
